@@ -1,5 +1,5 @@
 # start
-basic programs to start bmil life
+basic programs to start BMIL life
 
 wifi: SSU WIFI
 
