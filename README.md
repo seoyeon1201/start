@@ -13,5 +13,6 @@ https://soongsilac-my.sharepoint.com/:f:/g/personal/minhaekwon_soongsil_ac_kr/Eq
 그 밖에...
 - slack
 - github
+- zoom (학교 이메일주소로 가입합니다)
 - (추후 필요시)dropbox 
 - python 사용시: anaconda + pycharm 조합을 나는 개인적으로 사용하나 학생 개인 선호에 맞춰 프로그램을 사용하세요
