@@ -1,11 +1,11 @@
 # start
 basic programs to start BMIL life
 
-wifi: BMIL or BMIL_5G
-pw: bmil0306
+- wifi: BMIL or BMIL_5G
+- pw: bmil0306
 
-official ssu download link: pc.ssu.ac.kr (교내에서만 접속 가능)
-BMIL software download link:
+- official ssu download link: pc.ssu.ac.kr (교내에서만 접속 가능)
+- BMIL software download link:
 https://soongsilac-my.sharepoint.com/:f:/g/personal/minhaekwon_soongsil_ac_kr/Eq6dkuW_5btHt-YtzOxE1TcBoegIP33_R2HqFr0ucD1xMQ?e=uUteoO
 
 windows 10으로 pc 초기화 시키기 (윈도우 정품 딱지가 pc에 붙어 있는경우 & 숭실대 자산인 경우)
