@@ -5,8 +5,9 @@ basic programs to start BMIL life
 - pw: bmil0306
 
 - official ssu download link: pc.ssu.ac.kr (교내에서만 접속 가능)
-- BMIL software download link:
+- BMIL software download link: (교내에서는 pc.ssu.ac.kr로 접속하는게 더 빠릅니다)
 https://soongsilac-my.sharepoint.com/:f:/g/personal/minhaekwon_soongsil_ac_kr/Eq6dkuW_5btHt-YtzOxE1TcBoegIP33_R2HqFr0ucD1xMQ?e=uUteoO
+
 
 windows 10으로 pc 초기화 시키기 (윈도우 정품 딱지가 pc에 붙어 있는경우 & 숭실대 자산인 경우)
 1. windows 공식 웹에서 windows 10 미디어 생성도구를 다운로드 한다
