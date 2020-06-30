@@ -3,7 +3,6 @@ basic programs to start BMIL life
 
 - wifi: BMIL or BMIL_5G
 - pw: bmil0306
--
 
 - official ssu download link: pc.ssu.ac.kr (교내에서만 접속 가능)
 - BMIL software download link:
