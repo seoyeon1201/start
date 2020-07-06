@@ -35,5 +35,6 @@ Textbooks
 - Think python (2nd Edition)
 - Python Crash Course by Erick Matthes
 - Pattern Recognition And Machine Learning by Bishop (ML의 바이블)
-- Machine Learning by Murphy (ML의 바이블2)
-- Probablistic Graphical Model 
+- Machine Learning: A Probabilistic Perspective by Murphy (ML의 바이블2)
+- Probablistic Graphical Model by Koller (graphical model의 바이블)
+- Probablisitic Robotics by Sebastian Thrun (Kalman filter 관련)
