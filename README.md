@@ -1,6 +1,5 @@
 # start
 basic programs to start BMIL life
-
 - wifi: BMIL or BMIL_5G
 - pw: bmil0306
 
