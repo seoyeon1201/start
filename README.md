@@ -20,7 +20,7 @@ https://www.microsoft.com/ko-kr/software-download/windows10%5C
 
 
 - 한글 2018(라이센스 제품번호: DVHM3-N4YTR-C9WE3-48FXQ)
-- MS Office (학교에서 제공하는 offince365 계정으로 정품인증)
+- MS Office (학교에서 제공하는 office365 계정으로 정품인증)
 - 그밖에 다음 프로그램도 있음 (office2016 for Mac, Offince Pro Plus 2019 (windows), 한글 2014)
 
 그 밖에...
@@ -30,3 +30,10 @@ https://www.microsoft.com/ko-kr/software-download/windows10%5C
 - (추후 필요시)dropbox 
 - python 사용시: anaconda + pycharm 조합을 나는 개인적으로 사용하나 학생 개인 선호에 맞춰 프로그램을 사용하세요
 
+Textbooks
+- Reinforcement learning: http://incompleteideas.net/book/RLbook2020.pdf (RL의 바이블)
+- Think python (2nd Edition)
+- Python Crash Course by Erick Matthes
+- Pattern Recognition And Machine Learning by Bishop (ML의 바이블)
+- Machine Learning by Murphy (ML의 바이블2)
+- Probablistic Graphical Model 
