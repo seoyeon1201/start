@@ -17,7 +17,7 @@ https://www.microsoft.com/ko-kr/software-download/windows10%5C
 3. pc.ssu.ac.kr의 office 폴더 내 숭실대학교_인증_배치파일 내에 있는 windows 10 배치파일을 오른쪽 클릭하여서 관리자 모드로 실행하여 정품 인증을 받는다
 
 
-- 한글 2018(라이센스 제품번호: 디VHM3-엔4YTR-씨9WE3-48FXQ)
+- 한글 2018(라이센스 제품번호: 디VHM3-엔4YTR-씨9WE3-48FX큐)
 - MS Office (학교에서 제공하는 office365 계정으로 정품인증)
 - 그밖에 다음 프로그램도 있음 (office2016 for Mac, Offince Pro Plus 2019 (windows), 한글 2014)
 
