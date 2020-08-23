@@ -21,6 +21,21 @@ https://www.microsoft.com/ko-kr/software-download/windows10%5C
 - MS Office (학교에서 제공하는 office365 계정으로 정품인증)
 - 그밖에 다음 프로그램도 있음 (office2016 for Mac, Offince Pro Plus 2019 (windows), 한글 2014)
 
+
+Mac에서 Windows 사용하기
+- 정부의 연구비 관리 시스템을 사용하거나, Hancom office HWP 파일을 사용해야 하는경우 부득이하게 윈도우가 필요한 경우가 있습니다. 또한 MS Office 프로그램들 또한 윈도우에 최적화되어 있기에 Mac에서 작업시 불편한 점이 종종 존재합니다. 우선 최대한 Mac에서 keynote와 MS word for Mac을 이용하기를 추천하지면 부득이한 경우 아래의 경우를 추천합니다. 
+- Mac에서 Windows를 설치하는 방법에는 부트캠프와 virtual machine (무료버전: virtual box)가 있습니다. windows에서는 heavy한 프로그램을 돌리지 않을 것이기에 mac-widowns간 폴더공유 기능이 편리한 virtual box를 사용할 것을 추천합니다. 
+0. 아래의 세 프로그램을 맥 downloads 폴더에 다운받아 놓습니다. 
+- VirtualBox 6.1.12 platform packages - OS X host: https://www.virtualbox.org/wiki/Downloads
+- VirtualBox 6.1.12 Oracle VM VirtualBox Extension Pack: https://www.virtualbox.org/wiki/Downloads
+- Windows 10 이미지파일: https://www.microsoft.com/ko-kr/software-download/windows10ISO
+1. OS X host 파일을 설치하여 실행합니다. 
+2. Virtual box 실행 후 새로만들기 - 모든 설정은 디폴트를 따라도 문제 없습니다. 
+3. 이후 설치 과정은 아래의 두 블로그를 참고하세요. 
+맥mac에서 윈도우를 사용하는 법, VirtualBox https://parkschina.tistory.com/entry/%EB%A7%A5mac%EC%97%90%EC%84%9C-%EC%9C%88%EB%8F%84%EC%9A%B0%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EB%8A%94-%EB%B2%95-VirtualBox
+- VirtualBox - Windows10 VM 만들기 https://welcome1208.tistory.com/5?category=925493
+
+
 그 밖에...
 - slack
 - github
