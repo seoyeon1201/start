@@ -32,7 +32,7 @@ Mac에서 Windows 사용하기
 1. OS X host 파일을 설치하여 실행합니다. 
 2. Virtual box 실행 후 새로만들기 - 모든 설정은 디폴트를 따라도 문제 없습니다. 
 3. 이후 설치 과정은 아래의 두 블로그를 참고하세요. 
-맥mac에서 윈도우를 사용하는 법, VirtualBox https://parkschina.tistory.com/entry/%EB%A7%A5mac%EC%97%90%EC%84%9C-%EC%9C%88%EB%8F%84%EC%9A%B0%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EB%8A%94-%EB%B2%95-VirtualBox
+- 맥mac에서 윈도우를 사용하는 법, VirtualBox https://parkschina.tistory.com/entry/%EB%A7%A5mac%EC%97%90%EC%84%9C-%EC%9C%88%EB%8F%84%EC%9A%B0%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EB%8A%94-%EB%B2%95-VirtualBox
 - VirtualBox - Windows10 VM 만들기 https://welcome1208.tistory.com/5?category=925493
 
 
