@@ -1,7 +1,9 @@
 1. GPU server 1
 - 사양: 
 - OS: 
-- 숭실대 자산 정보 
+- 숭실대 자산 정보
+- 고정 IP address?
+- 기타 등등 
 
 2. CPU desktop 5
 - 사양:
