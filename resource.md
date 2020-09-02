@@ -1,8 +1,10 @@
 1. GPU server 1
-- 사양: 
-- OS:
-- 숭실대 자산 정보 
-- 고정 IP address?
+- CPU : AMD Ryzen 9 3950X 16-core Processor
+- GPU : GEForce RTX 2080 Ti
+- 메모리 : 128G
+- OS: Ubuntu 18.04.4 LTS
+- 숭실대 자산 정보 yes
+- 고정 IP address? 
 - 기타 등등 
 
 2. CPU desktop 5
