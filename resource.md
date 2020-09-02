@@ -6,9 +6,12 @@
 - 기타 등등 
 
 2. CPU desktop 5
-- 사양: 
-- OS:
-- 숭실대 자산 딱지 있는지? 
+- CPU : intel core i5-3470 cpu 3.20GHz (5대 동일)
+- 메모리 : 8G (5대 동일)
+- HDD : 500G(5대 동일)
+- SSD : 255G(1대) 128G(3대)
+- OS:windows 
+- 숭실대 자산 딱지 있는지? no
 
 3. monitor?
 - 몇인치? 브랜드? input단자 무엇무엇 있는지?
