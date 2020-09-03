@@ -3,7 +3,7 @@
 - GPU : GEForce RTX 2080 Ti
 - 메모리 : 128G
 - OS: Ubuntu 18.04.4 LTS
-- 숭실대 자산 정보 yes
+- 숭실대 자산 정보 : 자산딱지에 붙어있는 정보들 
 - 고정 IP address? 
 - 기타 등등 
 
