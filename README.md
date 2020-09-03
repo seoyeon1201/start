@@ -35,6 +35,9 @@ Mac에서 Windows 사용하기
 - 맥mac에서 윈도우를 사용하는 법, VirtualBox https://parkschina.tistory.com/entry/%EB%A7%A5mac%EC%97%90%EC%84%9C-%EC%9C%88%EB%8F%84%EC%9A%B0%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EB%8A%94-%EB%B2%95-VirtualBox
 - VirtualBox - Windows10 VM 만들기 https://welcome1208.tistory.com/5?category=925493
 
+이메일 자동 포워딩(outlook)
+- outlook에서 자동전달 키고 끄는법, https://support.microsoft.com/ko-kr/office/outlook-com%EC%97%90%EC%84%9C-%EC%9E%90%EB%8F%99-%EC%A0%84%EB%8B%AC-%EC%BC%9C%EA%B1%B0%EB%82%98-%EB%81%84%EA%B8%B0-6246987c-6c8f-4144-b255-14fc07007dad
+- 이해가 어려운 학생은 [자세하고 친절한설명](https://docs.google.com/document/d/1X_o2Jt0gl_DfU3anlGggJrQqgCPkdAeFePvFoJdehbA/edit?usp=sharing)을 참고하세요.
 
 그 밖에...
 - slack
@@ -42,6 +45,7 @@ Mac에서 Windows 사용하기
 - zoom (학교 이메일주소로 가입합니다)
 - (추후 필요시)dropbox 
 - python 사용시: anaconda + pycharm 조합을 나는 개인적으로 사용하나 학생 개인 선호에 맞춰 프로그램을 사용하세요
+
 
 Textbooks
 - Reinforcement learning: http://incompleteideas.net/book/RLbook2020.pdf (RL의 바이블)
