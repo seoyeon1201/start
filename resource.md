@@ -3,7 +3,7 @@
 - GPU : GEForce RTX 2080 Ti
 - 메모리 : 128G
 - OS: Ubuntu 18.04.4 LTS
-- 숭실대 자산 정보 : 14060083(물품번호)
+- 숭실대 물품번호 : 14060083
 - 고정 IP address no 
 - 기타 등등 
 
@@ -15,7 +15,7 @@
 - OS:windows 
 - 숭실대 자산 딱지 있는지? no
 
-3. monitor?
+3. monitor? - 모니터도 넘버링해서 각기기에 이름 붙여놓기
 - 몇인치? 브랜드? input단자 무엇무엇 있는지?
 - IPS LED 22EA53 5대 (LG, 22인치)
 - IPS LED 27MP35 1대 (LG, 27인치)
