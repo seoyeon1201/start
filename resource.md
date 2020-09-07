@@ -30,4 +30,10 @@
 - 마우스 여유분 2개 모두 사용가능 기존 1개가 불량이라 여유분으로 교체 
 - 재고 : 마우스 01 
 
-4. printer: Canon MF645Cx
+5. printer: Canon MF645Cx
+
+6. 무선 wifi 동글
+- 모델명 : ipTime N150UA_Solo
+- 사용목적 : 데스크탑 PC WIFI연결
+- 재고 : 5대 
+- 관리상황 : 1대 사용, 4대 보관
