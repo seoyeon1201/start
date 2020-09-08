@@ -18,7 +18,7 @@ https://www.microsoft.com/ko-kr/software-download/windows10%5C
 
 
 - 한글 2018(라이센스 제품번호: 디VHM3-엔4YTR-씨9WE3-48FX큐)
-- MS Office (학교에서 제공하는 office365 계정으로 정품인증)
+- MS OfficeProPlus2019설치시에는 윈도우10 설치시 기본으로 설치되는 office365를 삭제, 재부팅 후 설치해야된다.(인터넷 연결필수)
 - 그밖에 다음 프로그램도 있음 (office2016 for Mac, Offince Pro Plus 2019 (windows), 한글 2014)
 
 
