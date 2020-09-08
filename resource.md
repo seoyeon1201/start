@@ -37,3 +37,7 @@
 - 사용목적 : 데스크탑 PC WIFI연결
 - 재고 : 5대 
 - 관리상황 : 1대 사용, 4대 보관
+
+7. 랩 배치도
+<img width="1000" alt="스크린샷 2020-09-08 오후 4 12 24" src="https://user-images.githubusercontent.com/26515167/92444659-2c8a6800-f1ee-11ea-847d-038dc611e99d.png">
+
