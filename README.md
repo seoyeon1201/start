@@ -39,6 +39,10 @@ Mac에서 Windows 사용하기
 - outlook에서 자동전달 키고 끄는법, https://support.microsoft.com/ko-kr/office/outlook-com%EC%97%90%EC%84%9C-%EC%9E%90%EB%8F%99-%EC%A0%84%EB%8B%AC-%EC%BC%9C%EA%B1%B0%EB%82%98-%EB%81%84%EA%B8%B0-6246987c-6c8f-4144-b255-14fc07007dad
 - 이해가 어려운 학생은 [자세하고 친절한설명](https://docs.google.com/document/d/1X_o2Jt0gl_DfU3anlGggJrQqgCPkdAeFePvFoJdehbA/edit?usp=sharing)을 참고하세요.
 
+HP laserjet 400pro 프린터 처음 사용시(hp M451dn)Window10 유저는 장치 -> 프린터 추가로 추가 가능. 
+- 오류 발생시 window store에서 HP smart 설치시 에러 해결
+- mac 유저는 airprint기능 이용해서 바로 프린트 가능 
+
 그 밖에...
 - slack
 - github
